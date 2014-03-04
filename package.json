@@ -1,0 +1,10 @@
+{
+  "name": "npc-vend-apifake",
+  "description": "fake api for npc-vend development",
+  "version": "0.1.0",
+  "author": "nog3",
+  "dependencies": {
+    "restify": "~2.6.1"
+  },
+  "devDependencies": {}
+}
